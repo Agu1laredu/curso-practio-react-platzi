@@ -1,19 +1,23 @@
 # README - Proyecto React Platzi
 Este proyecto es el resultado del curso práctico de React en Platzi, donde resolvimos un desafío que consistía en seguir cuatro consignas que se encontraban en los "issues" del repositorio. A través de una serie de pasos que quedaron documentados en "pull requests" del repositorio, logramos completar el proyecto, cumpliendo así con estas tres consignas:
 
-Consignas Resueltas
-Bonus: Responsive Design para Shopi (opcional)
-Issue #15 abierta el 11 de Marzo por juandc
-Protección de Rutas
-Issue #14 abierta el 11 de Marzo por juandc
-2 tareas asociadas
-Navbar Dinámica
-Issue #13 abierta el 11 de Marzo por juandc
-2 tareas asociadas
-Maquetación de las vistas de usuario
-Issue #12 abierta el 11 de Marzo por juandc
-3 tareas asociadas
-Pull Requests Relevantes
+## Consignas Resueltas
+
+- Bonus: Responsive Design para Shopi (opcional)
+- Issue #15 abierta el 11 de Marzo por juandc
+
+
+- Protección de Rutas
+- Issue #14 abierta el 11 de Marzo por juandc
+
+
+- Navbar Dinámica
+- Issue #13 abierta el 11 de Marzo por juandc
+
+- Maquetación de las vistas de usuario
+- Issue #12 abierta el 11 de Marzo por juandc
+
+### Pull Requests Relevantes
 🔟 feat(home): Agregar detallitos finales en Navbar y Card
 
 Pull Request #11 abierta el 9 de Marzo por teffcode
@@ -44,5 +48,5 @@ Pull Request #4 abierta el 8 de Marzo por teffcode
 Pull Request #3 abierta el 8 de Marzo por teffcode
 1️⃣ feat(sign out): Agregar key de account y sign-out en localStorage
 
-Pull Request #2 abierta el 8 de Marzo por teffcode
+- Pull Request #2 abierta el 8 de Marzo por teffcode
 Este proyecto representa nuestro esfuerzo y trabajo colaborativo para completar con éxito las consignas mencionadas anteriormente. ¡Esperamos que este README te ayude a entender mejor nuestro proyecto!
