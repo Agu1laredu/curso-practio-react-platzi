@@ -1,4 +1,4 @@
-README - Proyecto React Platzi
+# README - Proyecto React Platzi
 Este proyecto es el resultado del curso práctico de React en Platzi, donde resolvimos un desafío que consistía en seguir cuatro consignas que se encontraban en los "issues" del repositorio. A través de una serie de pasos que quedaron documentados en "pull requests" del repositorio, logramos completar el proyecto, cumpliendo así con estas tres consignas:
 
 Consignas Resueltas
